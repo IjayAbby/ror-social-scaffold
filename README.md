@@ -18,7 +18,7 @@
 
 ## Concept of mutual friendship
 
-> A mutual friend is an individual who has established a friendship with two people. When those two people meet, they learn that they share the same friend; that friend they have in common is their mutual friend. If the two people become friends, a circle of friendship develops between the mutual friend and the other individuals. Mutual friendships are commonplace in schools, where kids are introduced to each other by a mutual friend. Adults often meet other people in the workplace, bars, restaurants and other social settings due to a mutual friend introducing them. From [our](https://oureverydaylife.com/mutual-friend-mean-10031289.html#:~:text=A%20mutual%20friend%20is%20an,common%20is%20their%20mutual%20friend.)
+> A mutual friend is an individual who has established a friendship with two people. When those two people meet, they learn that they share the same friend; that friend they have in common is their mutual friend. If the two people become friends, a circle of friendship develops between the mutual friend and the other individuals - from [our](https://oureverydaylife.com/mutual-friend-mean-10031289.html#:~:text=A%20mutual%20friend%20is%20an,common%20is%20their%20mutual%20friend.)
 
 ## Live Demo
 
@@ -29,10 +29,6 @@
 - Ruby v2.7.0
 - Ruby on Rails v5.2.4
 - VSCode - code editor
-
-## Live Demo
-
-TBA
 
 ## Getting Started
 
@@ -67,10 +63,6 @@ To make sure the linters' checks using Github Actions work properly, you should 
 - Run `bundle exec rspec` to run all the tests, or
 
 
-### Deployment
-
-TBA
-
 ## Authors
 
 👤 **Abigael Nyangasi**
@@ -86,9 +78,7 @@ TBA
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
+Contributions and feature requests are welcome!
 
 ## Show your support
 
